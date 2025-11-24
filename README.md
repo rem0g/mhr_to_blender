@@ -4,3 +4,4 @@ See issue to SAM Body 3D: https://github.com/facebookresearch/sam-3d-body/issues
 
 See my attempt to map mhr_parameters to rigged MHR character: https://signcollect.nl/mhr/mhr_animated.blend
 
+lod0.fbx file, rigged MHR character: https://signcollect.nl/mhr/lod0.fbx
